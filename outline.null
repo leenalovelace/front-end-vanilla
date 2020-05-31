@@ -1,0 +1,15 @@
+index.js
+  - is going to start a database connection
+  - fetch a list subset z of record fields
+  - fetch single ( x for each z in criteria )
+    - deleteIf fetch single return data meets criteria
+
+  >nodemodules
+    >database interacting module
+MultiDBAccess
+    >fetchlist
+
+SingleDBAccess
+  >fetchindividual
+    >
+  >deleteindividual
